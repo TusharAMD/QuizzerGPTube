@@ -1,8 +1,8 @@
-# React + Vite
+# QuizzerGPTube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- To run this first clone the repository.
+- Install extension using Load unpacked in your browser, you can google how to install external extensions.
+- Then go to root folder and in command line write npm i and then npm run dev
+- Next go to backend folder and make a virtual environment in python, its optional but recommended and then install the libraries using pip install -r requirements.txt
+- Then run python app.py
+Now you can create quiz from any youtube video that contains subtiles. Enjoy!!
