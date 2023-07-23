@@ -1,5 +1,7 @@
 # QuizzerGPTube
 
+This is a handy extension that can be used to make questions for a conceptual youtube video based on the subtitles. It uses generative AI to make questions. Right now I haven't hosted it but you can run locally by following the steps mentioned below.
+
 - To run this first clone the repository.
 - Install extension using Load unpacked in your browser, you can google how to install external extensions.
 - Then go to root folder and in command line write npm i and then npm run dev
